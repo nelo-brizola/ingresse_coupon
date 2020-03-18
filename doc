@@ -382,15 +382,3 @@ Endpoint that allows you to receive Ingresse API postback and updates the previo
 ## AuthorizationHeaderIsWrong (object)
 + code: `401` (number)
 + message: `Authentication failed.` (string)
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
